@@ -1,7 +1,7 @@
+//http://noi.openjudge.cn/ch0109/14/
 #include <iostream>
 #include <string.h>
 using namespace std;
-//http://noi.openjudge.cn/ch0109/14/
 #define MAX 10000
 
 
